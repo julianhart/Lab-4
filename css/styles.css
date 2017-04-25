@@ -1,11 +1,16 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	border-width: medium;
+	border-style: solid;
+	border-color: lightgrey;
+	margin: 40px;
+}
 
 .if {
 	width: auto;
 	height: 505px;
-	margin: 50px;
 	padding-top: 50px;
 	background-color: black;
 }
@@ -24,6 +29,32 @@
 }
 
 
-h1 {
+.text {
+	width: auto;
+	height: auto;
+}
+
+.text img {
+	width: 150px;
+	float: right;
+	margin-right: 40px;
+}
+
+.text h1 {
 	color: darkorange;
+}
+.text hr {
+	margin-right: 100px;
+}
+
+.text h2 {
+	color: lightgrey;
+}
+
+.text p {
+	width: 360px;
+}
+
+.list p {
+	font-weight: bold;
 }
