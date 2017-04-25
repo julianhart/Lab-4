@@ -66,6 +66,7 @@ body {
 .list p {
 	font-weight: bold;
 	padding-left: 23px;
+	margin-bottom: -10px;
 }
 
 
