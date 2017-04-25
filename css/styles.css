@@ -24,20 +24,23 @@ body {
 .if p {
 	color: white;
 	float: left;
-	padding-top: 200px;
+	padding-top: 260px;
 	width: 195px;
+	
 }
 
 
 .text {
 	width: auto;
-	height: auto;
+	padding: 23px;
+	margin-bottom: -30px;
 }
 
 .text img {
-	width: 150px;
+	width: 200px;
 	float: right;
 	margin-right: 40px;
+	margin-top: -35px;
 }
 
 .text h1 {
@@ -45,16 +48,37 @@ body {
 }
 .text hr {
 	margin-right: 100px;
+	margin-top: -29px;
 }
 
 .text h2 {
 	color: lightgrey;
+	padding-left: 300px;
 }
 
 .text p {
 	width: 360px;
 }
 
+.list {
+	margin-bottom: 30px;
+}
 .list p {
 	font-weight: bold;
+	padding-left: 23px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
